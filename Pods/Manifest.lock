@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (16.0.0)
+  - TinyConstraints (3.1.1)
+
+DEPENDENCIES:
+  - Cosmos
+  - TinyConstraints
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cosmos
+    - TinyConstraints
+
+SPEC CHECKSUMS:
+  Cosmos: 7bcee0fa858a9355a214f2a181be5dffcee42c81
+  TinyConstraints: c15ce864e9ef87dfd18ee3bd746d510a38d84198
+
+PODFILE CHECKSUM: 17448b015eee4acf89753e2b0271c694add1269d
+
+COCOAPODS: 1.5.3
